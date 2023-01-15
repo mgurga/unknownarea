@@ -1,4 +1,5 @@
 ![unknown area logo](assets/unknownarea.png)
+
 A small platformer built in 24 hours during the [UCR Rosehack](https://rosehack.com/) 2023 Hackathon. Built by [Seohyeon Lee](https://github.com/seohyeon-lee-2025) and [Moti Urga](https://github.com/mgurga)
 
 <img align="left" width="100" height="100" src="assets/protagonist_levels.png">
